@@ -1,0 +1,4 @@
+user:ci
+password:sql1380
+host:localhost
+database:asientos
